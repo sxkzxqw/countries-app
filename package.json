@@ -1,7 +1,7 @@
 {
   "name": "countries-app",
   "version": "0.1.0",
-  "homepage": "https://sxkzxqw.github.io/online-chat-react/",
+  "homepage": "https://sxkzxqw.github.io/countries-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
