@@ -153,7 +153,7 @@ const Info = (props) => {
                         </ListItem>
                         <ListItem>
                             <b>Languages:</b> {languages?.map(lang => {
-                                return <span key={lang.name}>{lang.name}</span>
+                                return <span key={lang.name}>{lang.name} </span>
                             })}
                         </ListItem>
                     </List>
